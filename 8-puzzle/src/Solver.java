@@ -96,6 +96,7 @@ public class Solver {
         if (initial.isSolvable()) {
             threshold = size * size;
             while (minMoves == -1) {
+                System.out.println(threshold);
                 Solver solver = new Solver(initial);
                 threshold += size;
             }
