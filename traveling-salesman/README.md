@@ -1,4 +1,4 @@
-#Домашно №3
+# Домашно №3
 
 Да се реши задачата за търговския пътник ([Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)) чрез използване на генетичен алгоритъм.
 
